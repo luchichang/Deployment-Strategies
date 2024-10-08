@@ -48,7 +48,7 @@
 ```bash
     ibmcloud cr images
 ```
-(INFO:  to restrict output for the specific Name space
+( INFO:  to restrict output for the specific Name space
 ```bash
   ibmcloud cr images --restrict $MY_NAMESPACE
 ```
